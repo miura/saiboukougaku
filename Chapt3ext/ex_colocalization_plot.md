@@ -1,3 +1,19 @@
+<div><img src="https://www.google.com/chart?chc=sites&amp;cht=d&amp;chdp=sites&amp;chl=%5B%5BTable+of+contents'%3D20'f%5Cv'a%5C%3D0'10'%3D249'0'dim'%5Cbox1'b%5CF6F6F6'fC%5CF6F6F6'eC%5C0'sk'%5C%5B'%5D'a%5CV%5C%3D12'f%5C%5DV%5Cta%5C%3D10'%3D0'%3D250'%3D297'dim'%5C%3D10'%3D10'%3D250'%3D297'vdim'%5Cbox1'b%5Cva%5CF6F6F6'fC%5CC8C8C8'eC%5C'a%5C%5Do%5CLauto'f%5C&amp;sig=TzxATGSyGo59uvdEcnpk0pMmCmI" data-props="align:left;width:250;maxDepth:6" id="20425127120688558" data-type="toc" class="sites-placeholder-toc" style="display: block; text-align: left;" width="250" height="300"></div>
+
+
+# 演習用の画像
+
+連載の演習で使うlisteriacells.tifの画像ファイルは以下のリンクでダウンロードできる。
+
+<https://github.com/cmci/saiboukougaku/blob/master/Chapt3/imgs/listeriacells.tif?raw=true>
+
+クリックすればダウンロードが開始するはずである。もしダウンロードが不可能なようだったら
+
+<https://github.com/cmci/saiboukougaku/blob/master/Chapt3/imgs/>
+
+で、Githubのウェブページにアクセスして、"View Raw"というリンクをクリックするとダウンロードが開始するはずである。
+
+
 # 共局在プロットの高速化
 
 連載第三回で共局在プロットのImageJマクロを示した。
